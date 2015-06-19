@@ -1,1 +1,2 @@
-Some dummy content
+Some dummy content (from remote)
+And new lines (from working copy)
